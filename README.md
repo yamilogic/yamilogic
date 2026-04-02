@@ -14,7 +14,7 @@
 
 # 📦 3D Contribution Graph:
 
-![3D Contrib](https://raw.githubusercontent.com/YamiLogic/YamiLogic/output/profile-south-season-animate.svg)
+![3D Contrib](https://raw.githubusercontent.com/YamiLogic/YamiLogic/main/profile-3d-contrib/profile-south-season-animate.svg)
 
 
 ## 🌐 Socials:
