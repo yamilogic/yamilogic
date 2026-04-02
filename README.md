@@ -11,6 +11,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;* Fine-tuning pipelines on HuggingFace with custom reward modeling<br><br>
 ⚡ Philosophy: `understand the loss function → break the system → rebuild it better`
 
+
+# 📦 3D Contribution Graph:
+
+![3D Contrib](https://raw.githubusercontent.com/YamiLogic/YamiLogic/output/profile-south-season-animate.svg)
+
+
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/YamiLogic)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/YamiLogic)
@@ -76,9 +82,6 @@ Reward : ROUGE-L + semantic_similarity - latency_penalty + user_feedback_score
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YamiLogic&theme=dark&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=888888)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YamiLogic&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=888888&layout=compact&custom_title=Languages)
 
-# 📦 3D Contribution Graph:
-
-![3D Contrib](https://raw.githubusercontent.com/YamiLogic/YamiLogic/output/profile-south-season-animate.svg)
 
 # 🐍 Contribution Snake:
 
